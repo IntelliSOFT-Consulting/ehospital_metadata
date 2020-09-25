@@ -1,4 +1,4 @@
-Uuid,Void/Retire,Fully specified name:en,Short name:en,Same as mappings,Description:en,...,_version:1,_order:120,Data class,Data type,Answers
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Same as mappings,Description:en,...,_version:1,_order:119,Data class,Data type,Answers
 a1c535db-3e75-4ec2-8c46-2744b62d1005,,Dementia in Alzheimer's disease with early onset,,ICD 10 - WHO:N/A,,,,,Diagnosis,N/A,
 8ca09cf6-9242-49c7-a78a-cbfc00c3262f,,Diarrhoea with no dehydration,,ICD 10 - WHO:N/A,,,,,Diagnosis,N/A,
 3cda1487-8ab9-429e-95b7-15c659d8e2c3,,Diarrhoea with some dehydration,,ICD 10 - WHO:N/A,,,,,Diagnosis,N/A,
@@ -28,7 +28,6 @@ f5d75803-a7df-4a69-9625-8c348de8b1b4,,Suspected anthrax,,ICD 10 - WHO:N/A,,,,,Di
 e87f7b21-24d9-4229-b99d-414ee7b260b1,,Suspected Childhood Cancers,,ICD 10 - WHO:N/A,,,,,Diagnosis,N/A,
 171BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,Dysentery,Dysentery (Bloody diarrhoea),ICD 10 - WHO:A08.5,,,,,Diagnosis,N/A,
 14694BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,Pneumonia,,ICD 10 - WHO:J18.9,,,,,Diagnosis,N/A,
-35422BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,Lower Respiratory Tract Infections,,ICD 10 - WHO:J98.8,,,,,Diagnosis,N/A,
 21517BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,"Asthma,Diagnosis",,ICD 10 - WHO:J45.9,,,,,Diagnosis,N/A,
 107966BBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,"Malaria, confirmed",Confirmed malaria,ICD 10 - WHO:B53.8,,,,,Diagnosis,N/A,
 81BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,Ear infection,,ICD 10 - WHO:N/A,,,,,Diagnosis,N/A,
