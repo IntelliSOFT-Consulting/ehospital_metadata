@@ -1,8 +1,7 @@
-Uuid,Answers,Members,Fully specified name:en,Short name:en,Data class,Data type,_version:1,_order:121
+Uuid,Answers,Members,Fully specified name:en,Short name:en,Data class,Data type,_version:1,_order:130
 5f51b9d2-fdce-4898-bc32-c0050ca0c538,,"Diarrhoea with no dehydration ; 
 Diarrhoea with some dehydration ; 
 Diarrhoea with severe dehydration ; 
-Cholera, Diagnosis ; 
 Gastroenterirtis ; 
 Severe pneumonia ; 
 Upper Respiratory Tract Infections ; 
@@ -27,7 +26,6 @@ Suspected anthrax;
 Suspected Childhood Cancers;
 Dysentery;
 Pneumonia;
-Lower Respiratory Tract Infections;
 Asthma,Diagnosis;
 Malaria, confirmed;
 Ear infection;
@@ -64,7 +62,21 @@ Rift Valley Fever;
 Dengue, Diagnosis;
 Leishmaniasis;
 Cutaneous leishmaniasis;
-Hypoxaemia",Mtiba Concepts,,ConvSet,N/A,,
+Hypoxaemia; Diarrhea, Diagnosis ; 
+Tuberculosis ; 
+Tetanus ; 
+Malaria in Pregnancy ; 
+Other Lower Respiratory tract infections ; 
+Abortion ; 
+Dis. of Puerperium & Childbirth ; 
+Anthritis, Joint pains etc. ; 
+Cardiovascular conditions;
+Central Nervous System Conditions;
+Overweight (BMI >25);
+Muscular skeletal conditions;
+Fistula (Birth related);
+Suspected Neoplams/Cancers;
+Physical Disability ",Mtiba Concepts,,ConvSet,N/A,,
 dbc2ecdb-4e14-11e4-8a57-0800271c1b75,,"Digestive System;
 Unclassified;
 Injuries and Adverse Effects;
