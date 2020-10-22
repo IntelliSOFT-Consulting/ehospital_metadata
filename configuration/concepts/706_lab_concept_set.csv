@@ -218,7 +218,7 @@ Coagulation profile ;
 Erythrocyte Sedimentation rate ; 
 HIV,LabTest ; 
 Hepatitis B ; 
-Hepatitis C ; 
+Hepatitis C,LabTest;
 Syphillis ","Haematology,LabSet",Haematology,Sample,N/A,,
 cbdff53a-b09b-4e8b-82c8-5f8b173d831d,,"Urine,LabTest ; 
 Pus swabs ; 
@@ -351,4 +351,4 @@ Synovial Fluid ;
 Slit Skin ; Parasitology ; 
 Haematology,LabSet ; 
 Bacteriology ; Drug Susceptibility Testing ; 
-Other Samples ",Lab Samples,Laboratory,Misc,N/A,"",""
+Other Samples ;",Lab Samples,Laboratory,Misc,N/A,"",""
