@@ -81,7 +81,7 @@ Physical Disability ",Mtiba Concepts,,ConvSet,N/A,,
 Diabetes mellitus, type 2;
 Gestational Diabetes Mellitus;
 Diabetes secondary to other causes;
-Hypertension;
+Hypertension,Diagnosis;
 Preeclampsia;
 Complications/Co-morbidities;
 Retinopathy;
@@ -89,7 +89,7 @@ Peripheral Neuropathy;
 Nephropathy;
 Stroke;
 Ischemic heart disease;
-Heart failure;
+Heart failure,Diagnosis;
 Peripheral vascular disease;
 Diabetic foot;
 Erectile dysfunction;
@@ -97,7 +97,7 @@ Gastropathy;
 Cataracts;
 Dental complication;
 Dyslipidemia;
-Obesity;
+Obesity, NOS;
 HIV disease;
 TB",mtiba270Concepts,"",ConvSet,N/A,"",""
 dbc2ecdb-4e14-11e4-8a57-0800271c1b75,,"Digestive System;
