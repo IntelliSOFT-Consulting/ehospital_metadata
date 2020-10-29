@@ -77,6 +77,29 @@ Muscular skeletal conditions;
 Fistula (Birth related);
 Suspected Neoplams/Cancers;
 Physical Disability ",Mtiba Concepts,,ConvSet,N/A,,
+379fb18d-73d5-4fb8-a376-ee6f179b5aa3,"","Diabetes mellitus, type 1;
+Diabetes mellitus, type 2;
+Gestational Diabetes Mellitus;
+Diabetes secondary to other causes;
+Hypertension;
+Preeclampsia;
+Complications/Co-morbidities;
+Retinopathy;
+Peripheral Neuropathy;
+Nephropathy;
+Stroke;
+Ischemic heart disease;
+Heart failure;
+Peripheral vascular disease;
+Diabetic foot;
+Erectile dysfunction;
+Gastropathy;
+Cataracts;
+Dental complication;
+Dyslipidemia;
+Obesity;
+HIV disease;
+TB",mtiba270Concepts,"",ConvSet,N/A,"",""
 dbc2ecdb-4e14-11e4-8a57-0800271c1b75,,"Digestive System;
 Unclassified;
 Injuries and Adverse Effects;
@@ -93,4 +116,4 @@ Nervous System and Sense Organ Disorders;
 Mental Disorders;
 Blood Diseases;
 Enocrine, Nutritional and Metabolic Disorders;
-Neoplasms;Mtiba Concepts",Diagnosis Set of Sets,,ConvSet,N/A,,
+Neoplasms;Mtiba Concepts;mtiba270Concepts",Diagnosis Set of Sets,,ConvSet,N/A,,
