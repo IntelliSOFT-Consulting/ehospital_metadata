@@ -1,0 +1,4 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,Normal low,Normal high,Allow decimals,Display precision,_version:1,_order:30,Data class,Data type,Answers
+5090AAAAAAAAAAAAAAAAAAAAAAAAAAAA,,HEIGHT,HEIGHT(cm),,,,,Yes,1,,,Misc,Numeric,
+"5089AAAAAAAAAAAAAAAAAAAAAAAAAAAA
+",,WEIGHT,WEIGHT(kg),,,,,Yes,1,,,Misc,Numeric,
