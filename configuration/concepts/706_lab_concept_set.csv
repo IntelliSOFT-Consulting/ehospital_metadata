@@ -1,5 +1,5 @@
 Uuid,Answers,Members,Fully specified name:en,Short name:en,Data class,Data type,_version:1,_order:18
-958cd481-53cb-446a-b4c5-9d1dc00ded24,,"Urine Bile Pigment ;
+e955bdb7-a2ea-42c7-9423-0e33df9c39a6,,"Urine Bile Pigment ;
 Urine Bile Salt ;
 Parallel Urine Sugar (Fasting Blood) ;
 Parallel Urine Sugar (30 mins) ;
@@ -13,8 +13,7 @@ Bile pigment ;
 Specific Gravity ;
 Sugar (Routine Urin) ;
 LE (Urine) ;
-Nitrite ;
-Cast ;
+Nitrite ; Cast ;
 Crystal ;
 Uric acid (Urine) ;
 Others (Urine) ;
@@ -67,7 +66,7 @@ Transparency (Urine) ;
 Epithelial Cells ;
 Albumin (Urine) ;
 Casts ;
-Sugar ; Bacteria ; S. haematobium",Urine,,Sample,N/A,,
+Sugar ; Bacteria ; S. haematobium",Urine Tests,Urine,Sample,N/A,,
 86b52764-d24f-4900-beb7-0f5d91a4adc5,,"APTT (Control) (Serum) ;
 AFP ;
 Urea ;
@@ -325,8 +324,8 @@ Doxycycline/tetracyclin;
 Ceftazidime-avibactam;
 Erythromycin;
 Serum Cortisol",Drug Susceptibility Testing,,Sample,N/A,,
-8160a011-3f10-11e4-adec-0800271c1b75,"","Blood ;
-Urine ;
+8160a011-3f10-11e4-adec-0800271c1b75,,"Blood ;
+Urine Tests;
 Serum ;
 Semen ;
 Stool ;
@@ -351,4 +350,4 @@ Synovial Fluid ;
 Slit Skin ; Parasitology ; 
 Haematology,LabSet ; 
 Bacteriology ; Drug Susceptibility Testing ; 
-Other Samples ;",Lab Samples,Laboratory,Misc,N/A,"",""
+Other Samples ;",Lab Samples,Laboratory,Misc,N/A,,
