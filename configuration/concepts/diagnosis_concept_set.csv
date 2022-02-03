@@ -77,7 +77,7 @@ Muscular skeletal conditions;
 Fistula (Birth related);
 Suspected Neoplams/Cancers;
 Physical Disability ",Mtiba Concepts,,ConvSet,N/A,,
-379fb18d-73d5-4fb8-a376-ee6f179b5aa3,"","Diabetes mellitus, type 1;
+379fb18d-73d5-4fb8-a376-ee6f179b5aa3,,"Diabetes mellitus, type 1;
 Diabetes mellitus, type 2;
 Gestational Diabetes Mellitus;
 Diabetes secondary to other causes;
@@ -99,7 +99,29 @@ Dental complication;
 Dyslipidemia;
 Obesity;
 HIV disease;
-TB",mtiba270Concepts,"",ConvSet,N/A,"",""
+TB",mtiba270Concepts,,ConvSet,N/A,,
+8adca073-814f-4649-914a-629b6024657c,,"COLD AGGLUTININS;
+FACTOR V LEIDEN;
+FACTOR VII;
+FACTOR X;
+FACTOR XII ASSAYS;
+ALDOSTERONE;
+PCR- CYSTIC FIBROSIS;
+OSMOLALITY;
+URINE OSMOLALITY;
+MYCOPLASMA IGG;
+MYCOPLASMA IGM;
+PCR- MYCOPLASMA PNEUMONIAE;
+MYCOPLASMA  (PPLO);
+LUPUS ANTICOAGULANT;
+BENZODIAZEPINE;
+ANTE-NATAL  PROFILE(CBC VDRL BLGRP HBSAG HIV) ;
+CATARACT;
+INGUINAL UNILATERAL;
+Normal delivery;
+Cesarean Section Delivery;
+Cast Removal;
+Norplant Removal",Carepay Diagnosis,,ConvSet,N/A,,
 dbc2ecdb-4e14-11e4-8a57-0800271c1b75,,"Digestive System;
 Unclassified;
 Injuries and Adverse Effects;
@@ -116,4 +138,4 @@ Nervous System and Sense Organ Disorders;
 Mental Disorders;
 Blood Diseases;
 Enocrine, Nutritional and Metabolic Disorders;
-Neoplasms;Mtiba Concepts;mtiba270Concepts",Diagnosis Set of Sets,,ConvSet,N/A,,
+Neoplasms;Mtiba Concepts;mtiba270Concepts; Carepay Diagnosis",Diagnosis Set of Sets,,ConvSet,N/A,,
