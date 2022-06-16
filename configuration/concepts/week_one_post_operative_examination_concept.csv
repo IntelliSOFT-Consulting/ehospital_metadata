@@ -1,0 +1,35 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,Normal low,Normal high,Allow decimals,Display precision,_version:1,_order:103,Data class,Data type,Answers
+cfa4d328-696b-49c2-a0ab-d3daed6b98f3,,"Week 1 Exam Date (OD), Right eye",Week 1 Exam Date (OD),,,,,,,,,Question,Date,
+9dfd6b05-66fc-4f1e-9793-ddb84fbd63f5,,"Week 1 Visual Acuity (OD), Right eye",Week 1 Visual Acuity (OD),,,,,,,,,Question,Text,
+96fddc21-7a69-4a0b-bbf7-4868a4ccc711,,"Week 1 Pinhole Visual Acuity (OD), Right eye",Week 1 Pinhole Visual Acuity (OD),,,,,,,,,Question,Text,
+b361fea0-cdeb-42d1-9b3e-b07415c6465b,,Corneal Edema,,,,,,,,,,Misc,N/A,
+8753ed64-92be-47c5-9dc5-9ac0b15b6a98,,Hyphema,,,,,,,,,,Misc,N/A,
+0b3d3942-627a-421f-9d85-9712dea756e0,,Retained Cortex,,,,,,,,,,Misc,N/A,
+a417b4e5-d8a6-4c16-8c94-aede80962022,,Wound Complication,,,,,,,,,,Misc,N/A,
+fff0de40-433a-4515-a3a4-39d46142535c,,Endophthalmitis,,,,,,,,,,Misc,N/A,
+6eb4132c-f0eb-40e9-9418-1338dcb267f4,,Elevated IOP,,,,,,,,,,Misc,N/A,
+43628c28-b8d6-47c7-8262-f9e546bab17c,,"Other, List in Notes",Others,,,,,,,,,Misc,N/A,
+1a376743-19b9-4b23-9576-b5165101919e,,"Week 1 Complications (OD), Right eye",Week 1 Complications (OD),,,,,,,,,Question,Coded,"Corneal Edema;
+Hyphema;
+Retained Cortex;
+Wound Complication;
+Endophthalmitis;
+Elevated IOP;
+Other, List in Notes"
+894714c3-9d5d-4c94-8d3e-8716c0c41bdb,,"Additional Surgery Performed (OD), Right eye",Additional Surgery Performed (OD),,,,,,,,,Question,Text,
+6ae347b5-8567-4c25-8c52-dab44874945e,,"Notes (OD), Right eye",Notes (OD),,,,,,,,,Misc,Text,
+2a32d20d-8744-4212-b5e1-7bb421f6157a,,"Right Eye Information (OD), Right eye",Right Eye Information (OD),,,,,,,,,Misc,N/A,
+0cf4c745-c2f8-43f0-8975-b0fe74a9d2fb,,"Week 1 Exam Date (OS), Left eye",Week 1 Exam Date (OS),,,,,,,,,Question,Date,
+f4ae0ae1-c8c8-4779-8670-4067a619fa3f,,"Week 1 Visual Acuity (OS), Left eye",Week 1 Visual Acuity (OS),,,,,,,,,Question,Text,
+9ce6af20-95f6-4857-8441-4f35e85a782c,,"Week 1 Pinhole Visual Acuity (OS), Left eye",Week 1 Pinhole Visual Acuity (OS),,,,,,,,,Question,Text,
+e8161014-03a4-4f32-9468-e0889e4a36cf,,"Week 1 Complications (OS), Left eye",Week 1 Complications (OS),,,,,,,,,Question,Coded,"Corneal Edema;
+Hyphema;
+Retained Cortex;
+Wound Complication;
+Endophthalmitis;
+Elevated IOP;
+Other, List in Notes"
+6192de29-3d1e-46fa-a701-4096bd649dd7,,"Additional Surgery Performed (OS), Left eye",Additional Surgery Performed (OS),,,,,,,,,Question,Text,
+1d4bb747-20cc-4fe3-a52f-e009dcfcff75,,"Notes (OS), Left eye",,,,,,,,,,Misc,Text,
+8df2e7df-a7bd-4fe0-919b-8eddba12c43f,,"Left Eye Information (OS), Left eye",Left Eye Information (OS),,,,,,,,,Misc,N/A,
+7da1479c-f01c-46bb-8533-c29f472bd7df,,Week 1 Post-Operative Examination,,,,,,,,,,ConvSet,N/A,

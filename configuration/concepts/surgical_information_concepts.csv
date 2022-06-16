@@ -1,0 +1,64 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,Normal low,Normal high,Allow decimals,Display precision,_version:1,_order:109,Data class,Data type,Answers
+4e14bcb3-b559-4988-a762-285949c0f17f,,"Right eye, Date of Surgery (OD) Surgical Information",Date of Surgery (OD),,,,,,,,,Question,Date,
+071b902c-ba1b-4dd7-a4c4-01a8a6f2fcce,,"Right eye, Physician / Surgeon Name (OD)",Physician / Surgeon Name (OD),,,,,,,,,Question,Text,
+e59de405-5e67-4876-afc1-49404eced8a7,,ECCE/MSICS,ECCE/MSICS,,,,,,,,,Misc,N/A,
+d2e883db-e8c3-42ab-bc40-ef632b42b418,,ICCE,ICCE,,,,,,,,,Misc,N/A,
+f1e2df89-0224-4563-aaab-46e6380d5c9f,,Phacoemulsification,Phacoemulsification,,,,,,,,,Misc,N/A,
+9c68ac03-17d6-4f5d-a5f9-127d5805b5b3,,"Right eye, Surgical Technique Used (OD)",Surgical Technique Used (OD),,,,,,,,,Question,Coded,"ECCE/MSICS;
+ICCE;
+Phacoemulsification;
+Other, List in Notes;"
+e89b7ee0-fd3c-40ff-a5b9-d7935fd6f604,,"PC, Surgical Information",PC,,,,,,,,,Misc,N/A,
+06191995-96e8-4cd6-ab1a-177e9acb003f,,"AC, Surgical Information",AC,,,,,,,,,Misc,N/A,
+0dc28903-b100-463b-ae15-0feea78be3c3,,"None, Surgical Information",None,,,,,,,,,Misc,N/A,
+c8a1f309-35d7-4f7c-a209-394c315f2bb3,,"Right eye, Type of IOL Implanted (OD)",Type of IOL Implanted (OD),,,,,,,,,Question,Coded,"PC, Surgical Information;
+AC, Surgical Information;
+None, Surgical Information;"
+8db8e87c-ea10-4813-9bde-27cd7b1c2cbf,,"Right eye, Implanted IOL Power (OD)",Implanted IOL Power (OD),,,,,,,,,Question,Text,
+c4fcd824-2b50-4d05-94d3-cdda8f35600a,,"Right eye, IOL A Constant (OD)",IOL A Constant (OD),,,,,,,,,Question,Text,
+10effa7d-6868-46a2-8b0b-a922fed5064d,,Increased IOP,,,,,,,,,,Misc,N/A,
+acb16395-e0ef-46a3-9680-f394733284d7,,PCR/Vitreous Loss,,,,,,,,,,Misc,N/A,
+74adfb0f-129d-4a89-8f17-9df3b49a8791,,Zonular Dehiscense,,,,,,,,,,Misc,N/A,
+58cae415-6c91-4f91-ba64-9e3aecfae198,,Retained Lens Matter,,,,,,,,,,Misc,N/A,
+a7221aff-86ac-42c5-b124-423404916eb8,,Wound Leak,,,,,,,,,,Misc,N/A,
+2defd731-109e-4bd5-8b65-99932410e871,,Expulsive Hemorrage,,,,,,,,,,Misc,N/A,
+8753ed64-92be-47c5-9dc5-9ac0b15b6a98,,Hyphema,,,,,,,,,,Misc,N/A,
+06674e33-8f98-47ec-9b22-0cfb530ccc41,,Air in AC,,,,,,,,,,Misc,N/A,
+ec16b41a-13af-4801-995e-fae81db1132e,,Iris Trauma,,,,,,,,,,Misc,N/A,
+f880e31a-cadf-4c48-9501-893d1e060ad0,,Dropped Nucleus,,,,,,,,,,Misc,N/A,
+f0254be6-0ee9-418b-9789-b38a0409906d,,"Right eye, Intraoperative Complications (OD)",Intraoperative Complications (OD),,,,,,,,,Question,Coded,"Increased IOP;
+PCR/Vitreous Loss;
+Zonular Dehiscense;
+Retained Lens Matter;
+Wound Leak;
+Expulsive Hemorrage;
+Hyphema;
+Air in AC;
+Iris Trauma;
+Dropped Nucleus;
+Other, List in Notes;"
+3bf526ff-b115-4dda-a74e-e3734c8e8835,,Notes (OD),,,,,,,,,,Question,Text,
+59e14ba1-3240-4180-b125-ae72096e8c47,,"Surgical Information, Right Eye Information (OD)",Right Eye Information (OD),,,,,,,,,Misc,N/A,
+1dcfa54b-89a8-40dc-9c5a-0ba0349404b7,,"Left eye, Date of Surgery (OS) Surgical Information",Date of Surgery (OS),,,,,,,,,Question,Date,
+49a34e92-30f0-45b3-a501-c3024552f5a4,,"Left eye, Physician / Surgeon Name (OS)",Physician / Surgeon Name (OS),,,,,,,,,Question,Text,
+97048390-1213-4c0c-ad0c-3bcd888900d2,,"Left eye, Surgical Technique Used (OS)",Surgical Technique Used (OS),,,,,,,,,Question,Coded,"ECCE/MSICS;
+ICCE;
+Phacoemulsification;
+Other, List in Notes;"
+d0a51073-5622-46fb-8348-f990a02dd445,,"Left eye, Type of IOL Implanted (OS)",Type of IOL Implanted (OS),,,,,,,,,Question,Coded,"PC, Surgical Information;
+AC, Surgical Information;
+None, Surgical Information;"
+bb9a5e58-c5dd-428a-826a-6f954d695387,,"Left eye, Implanted IOL Power (OS)",Implanted IOL Power (OS),,,,,,,,,Question,Text,
+0035a8b5-8905-4121-bb84-f6d6eed4096d,,"Left eye, IOL A Constant (OS)",IOL A Constant (OS),,,,,,,,,Question,Text,
+3c64c540-2467-40aa-acc8-b03fc0e42821,,"Left eye, Intraoperative Complications (OS)",Intraoperative Complications (OS),,,,,,,,,Question,Coded,"Increased IOP;
+PCR/Vitreous Loss;
+Zonular Dehiscense;
+Retained Lens Matter;
+Wound Leak;
+Expulsive Hemorrage;
+Hyphema;
+Air in AC;
+Iris Trauma;
+Dropped Nucleus;
+Other, List in Notes;"
+53ee6370-6357-45f5-aeae-3bb596d72ad9,,"Surgical Information, Left Eye Information (OS)",Left Eye Information (OS),,,,,,,,,Misc,N/A,

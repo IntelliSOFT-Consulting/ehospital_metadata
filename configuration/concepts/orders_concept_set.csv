@@ -1,0 +1,16 @@
+Uuid,Answers,Members,Fully specified name:en,Short name:en,Data class,Data type,_version:1,_order:190
+bd8b5f80-b7e6-4d37-8b5c-cf989a037876,,,Joint Replacement,,Misc,N/A,,
+a838f59e-fa99-4fcb-b216-ecbf612e9175,,,Broken Bone Repair,,Misc,N/A,,
+aa8a4f56-8c4f-4613-9112-fabec78ce37a,,,Gallbladder Removal (Cholecystectomy),,Misc,N/A,,
+fc7f296f-1920-4041-83b4-3e6cab994c56,,,Circumcision,,Misc,N/A,,
+46ce052a-2d94-4be7-a0c3-3105368622b1,,"Blepharoplasty, Procedure;
+Cataract surgery, Procedure;
+Corneal transplant, Procedure;
+Glaucoma surgeries, Procedure;
+LASIK (laser in-situ keratomileusis), Procedure;",Eye Prodecures,,Misc,N/A,,
+8d0450ff-b9be-4ee7-b96c-ea5fdff259aa,,"Joint Replacement;
+Broken Bone Repair;
+Gallbladder Removal (Cholecystectomy);
+Circumcision;
+Eye Prodecures;",Procedures,,Misc,N/A,,
+b3dac224-fdea-11e4-b248-005056820298,,Lab Samples;Radiology Orders;Procedures,All Orderables,All Orderables,ConvSet,N/A,,

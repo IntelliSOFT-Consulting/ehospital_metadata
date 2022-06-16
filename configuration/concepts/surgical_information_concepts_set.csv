@@ -1,0 +1,55 @@
+Uuid,Answers,Members,Fully specified name:en,Short name:en,Data class,Data type,_version:1,_order:110
+9c68ac03-17d6-4f5d-a5f9-127d5805b5b3,"ECCE/MSICS;
+ICCE;
+Phacoemulsification;
+Other, List in Notes;",,"Right eye, Surgical Technique Used (OD)",Surgical Technique Used (OD),Question,Coded,,
+c8a1f309-35d7-4f7c-a209-394c315f2bb3,"PC, Surgical Information;
+AC, Surgical Information;
+None, Surgical Information;",,"Right eye, Type of IOL Implanted (OD)",Type of IOL Implanted (OD),Question,Coded,,
+f0254be6-0ee9-418b-9789-b38a0409906d,"Increased IOP;
+PCR/Vitreous Loss;
+Zonular Dehiscense;
+Retained Lens Matter;
+Wound Leak;
+Expulsive Hemorrage;
+Hyphema;
+Air in AC;
+Iris Trauma;
+Dropped Nucleus;
+Other, List in Notes;",,"Right eye, Intraoperative Complications (OD)",Intraoperative Complications (OD),Question,Coded,,
+59e14ba1-3240-4180-b125-ae72096e8c47,,"Right eye, Date of Surgery (OD) Surgical Information;
+Right eye, Physician / Surgeon Name (OD);
+Right eye, Surgical Technique Used (OD);
+Right eye, Type of IOL Implanted (OD);
+Right eye, Implanted IOL Power (OD);
+Right eye, IOL A Constant (OD);
+Right eye, Intraoperative Complications (OD);
+Notes (OD)","Surgical Information, Right Eye Information (OD)",Right Eye Information (OD),Misc,N/A,,
+97048390-1213-4c0c-ad0c-3bcd888900d2,"ECCE/MSICS;
+ICCE;
+Phacoemulsification;
+Other, List in Notes;",,"Left eye, Surgical Technique Used (OS)",Surgical Technique Used (OS),Question,Coded,,
+d0a51073-5622-46fb-8348-f990a02dd445,"PC, Surgical Information;
+AC, Surgical Information;
+None, Surgical Information;",,"Left eye, Type of IOL Implanted (OS)",Type of IOL Implanted (OS),Question,Coded,,
+3c64c540-2467-40aa-acc8-b03fc0e42821,"Increased IOP;
+PCR/Vitreous Loss;
+Zonular Dehiscense;
+Retained Lens Matter;
+Wound Leak;
+Expulsive Hemorrage;
+Hyphema;
+Air in AC;
+Iris Trauma;
+Dropped Nucleus;
+Other, List in Notes;",,"Left eye, Intraoperative Complications (OS)",Intraoperative Complications (OS),Question,Coded,,
+53ee6370-6357-45f5-aeae-3bb596d72ad9,,"Left eye, Date of Surgery (OS) Surgical Information;
+Left eye, Physician / Surgeon Name (OS);
+Left eye, Surgical Technique Used (OS);
+Left eye, Type of IOL Implanted (OS);
+Left eye, Implanted IOL Power (OS);
+Left eye, IOL A Constant (OS);
+Left eye, Intraoperative Complications (OS);
+Notes (OS);","Surgical Information, Left Eye Information (OS)",Left Eye Information (OS),Misc,N/A,,
+eee718aa-be4c-4507-a54e-cd6142e32253,,"Surgical Information, Right Eye Information (OD); 
+Surgical Information, Left Eye Information (OS)",Surgical Information Form,,Misc,N/A,,

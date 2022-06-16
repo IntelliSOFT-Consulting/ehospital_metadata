@@ -1,0 +1,29 @@
+Uuid,Answers,Members,Fully specified name:en,Short name:en,Data class,Data type,_version:1,_order:104
+1a376743-19b9-4b23-9576-b5165101919e,"Corneal Edema;
+Hyphema;
+Retained Cortex;
+Wound Complication;
+Endophthalmitis;
+Elevated IOP;
+Other, List in Notes",,"Week 1 Complications (OD), Right eye",Week 1 Complications (OD),Question,Coded,,
+2a32d20d-8744-4212-b5e1-7bb421f6157a,,"Week 1 Exam Date (OD), Right eye;
+Week 1 Visual Acuity (OD), Right eye;
+Week 1 Pinhole Visual Acuity (OD), Right eye;
+Week 1 Complications (OD), Right eye;
+Additional Surgery Performed (OD), Right eye;
+Notes (OD)","Right Eye Information (OD), Right eye",Right Eye Information (OD),Misc,N/A,,
+e8161014-03a4-4f32-9468-e0889e4a36cf,"Corneal Edema;
+Hyphema;
+Retained Cortex;
+Wound Complication;
+Endophthalmitis;
+Elevated IOP;
+Other, List in Notes",,"Week 1 Complications (OS), Left eye",Week 1 Complications (OS),Question,Coded,,
+8df2e7df-a7bd-4fe0-919b-8eddba12c43f,,"Week 1 Exam Date (OS), Left eye;
+Week 1 Visual Acuity (OS), Left eye;
+Week 1 Pinhole Visual Acuity (OS), Left eye;
+Week 1 Complications (OS), Left eye;
+Additional Surgery Performed (OS), Left eye;
+Notes (OS);","Left Eye Information (OS), Left eye",Left Eye Information (OS),Misc,N/A,,
+7da1479c-f01c-46bb-8533-c29f472bd7df,,"Right Eye Information (OD), Right eye; 
+Left Eye Information (OS), Left eye",Week 1 Post-Operative Examination,,ConvSet,N/A,,
