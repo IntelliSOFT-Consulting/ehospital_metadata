@@ -1,0 +1,67 @@
+Uuid,Answers,Members,Fully specified name:en,Short name:en,Data class,Data type,_version:1,_order:102
+d38fbb5c-76e2-4050-b974-535d9e17983f,"Holladay 1;
+Holladay 2;
+SRK/T;
+Other, List in Notes;",,IOL Formula Used (OD),,Question,Coded,,
+5e95772f-a548-43a0-86ec-c49738dd5d37,,,Right Eye to be Operated (OD),,Question,Boolean,,
+268824fd-c3b5-4ddc-b987-9a3ad92acc45,,,Afferent Pupilary Defect (OD),,Question,Boolean,,
+d74281ce-881e-490e-8ddb-5c1ce97ef221,"Trauma;
+Small Pupil;
+Dense Cataract;
+Psuedoexfoliation;
+Corneal Scar;
+Retinal Disease;
+Glaucoma;
+Poor Zonular Support;
+Amblyopia;
+White/Mature Cataract;
+Immature Cataract;
+Trachoma;
+Other, List in Notes;",,"Other Ocular Pathology Likely
+to Impact Outcome (OD)",,Question,Coded,,
+6f21b851-ca51-4b92-9f94-448d97c58361,,"Pre-Op Visual Acuity (OD);
+Pre-Op Pinhole Visual Acuity (OD);
+Right Eye to be Operated (OD);
+Afferent Pupilary Defect (OD);
+Intraocular Pressure (OD);
+K1;
+K2;
+AXL;IOL Formula Used (OD);Prescribed IOL Power (OD);Other Ocular Pathology Likely
+to Impact Outcome (OD);Notes (OD)",Right Eye Information (OD),,Misc,N/A,,
+c5483564-976c-4993-a486-bd4b64c24743,"Holladay 1;
+Holladay 2;
+SRK/T;
+Other, List in Notes;",,IOL Formula Used (OS),,Question,Coded,,
+129c2d08-fd99-4744-9c61-359cac4f00bd,,,Right Eye to be Operated (OS),,Question,Boolean,,
+7a3138d8-47c1-4d2e-a1a2-209df9e551ed,,,Afferent Pupilary Defect (OS),,Question,Boolean,,
+7d163c9c-a4e5-41de-ac6e-1542b0152bc9,"Trauma;
+Small Pupil;
+Dense Cataract;
+Psuedoexfoliation;
+Corneal Scar;
+Retinal Disease;
+Glaucoma;
+Poor Zonular Support;
+Amblyopia;
+White/Mature Cataract;
+Immature Cataract;
+Trachoma;
+Other, List in Notes;",,Other Ocular Pathology Likely to Impact Outcome (OS),,Question,Coded,,
+9cd94647-2aee-4208-b2bb-4aae3ec899da		,,"Pre-Op Visual Acuity (OS);
+Pre-Op Pinhole Visual Acuity (OS);
+Right Eye to be Operated (OS);
+Afferent Pupilary Defect (OS);
+Intraocular Pressure (OS);
+K1,OS;
+K2,OS;
+AXL,OS;
+IOL Formula Used (OS);
+Prescribed IOL Power (OS);
+Other Ocular Pathology Likely to Impact Outcome (OS);
+Notes (OS);",Left Eye Information (OS),,Misc,N/A,,
+1f4de0c3-6834-4202-9f7a-782ecfada78f,,"Blood Pressure Pre operative, First Reading;
+Blood pressure reading, first date;
+Blood Pressure Pre operative, Second Reading;
+Blood pressure reading, second date;
+Right Eye Information (OD);
+Left Eye Information (OS)",Pre-Operative Examination,,ConvSet,N/A,,

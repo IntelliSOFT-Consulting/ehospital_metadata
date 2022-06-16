@@ -1,0 +1,7 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,Normal low,Normal high,Allow decimals,Display precision,_version:1,_order:185,Data class,Data type,Answers
+81adb6f2-a93a-45ea-a6c2-a734cd2db955,,"Blepharoplasty, Procedure",Blepharoplasty,,,,,,,,,LabTest,Text,
+9c7b062c-f1db-4a18-a2af-e62f69421809,,"Cataract surgery, Procedure",Cataract surgery,,,,,,,,,LabTest,Text,
+983a0d6b-de5a-4ec1-82f1-c04b2f68d0b4,,"Corneal transplant, Procedure",Corneal transplant,,,,,,,,,LabTest,Text,
+b58f9719-862f-4d08-958a-22c92528838b,,"Glaucoma surgeries, Procedure",Glaucoma surgeries,,,,,,,,,LabTest,Text,
+2d917b9a-50fe-4caf-99e0-a1e4e904e960,,"LASIK (laser in-situ keratomileusis), Procedure",LASIK (laser in-situ keratomileusis),,,,,,,,,LabTest,Text,
+46ce052a-2d94-4be7-a0c3-3105368622b1,,Eye Prodecures,,,,,,,,,,Misc,N/A,

@@ -1,0 +1,28 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,Normal low,Normal high,Allow decimals,Display precision,_version:1,_order:107,Data class,Data type,Answers
+c8b63463-cf1b-4b88-aa1e-3fdfa1ac215e,,"Day 1 Exam Date (OD), Right eye",Exam Date (OD),,,,,,,,,Question,Date,
+19db14d0-bcc1-44dc-8d40-bcee6b3fa579,,"Day 1 Visual Acuity (OD), Right eye",Visual Acuity (OD),,,,,,,,,Question,Text,
+dc87db46-3a7d-4c5b-9997-644c8d7e179e,,"Day 1 Pinhole Visual Acuity (OD), Right eye",Pinhole Visual Acuity (OD),,,,,,,,,Question,Text,
+53b15091-2154-4d1b-9501-609c3c6ce34c,,"Day 1 Complications (OD), Right eye",Complications (OD),,,,,,,,,Question,Coded,"Corneal Edema;
+Hyphema;
+Retained Cortex;
+Wound Complication;
+Endophthalmitis;
+Elevated IOP;
+Other, List in Notes"
+e10399d3-43e8-442d-aa01-a62cd72c32d5,,"Day 1 Additional Surgery Performed (OD), Right eye",Additional Surgery Performed (OD),,,,,,,,,Question,Text,
+6ae347b5-8567-4c25-8c52-dab44874945e,,"Notes (OD), Right eye",Notes (OD),,,,,,,,,Misc,Text,
+bbece7f4-5016-431c-b903-e38dcfda19bd,,"Day 1 Right Eye Information (OD), Right eye",Right Eye Information (OD),,,,,,,,,Misc,N/A,
+0aeeccee-6594-4f64-95a8-86af688d119c,,"Day 1 Exam Date (OS), Left eye",Exam Date (OS),,,,,,,,,Question,Date,
+457cde97-d073-44bf-a705-81c5b8de49bd,,"Day 1 Visual Acuity (OS), Left eye",Visual Acuity (OS),,,,,,,,,Question,Text,
+8acb1d34-d17f-4461-a5aa-aaf15dee56fa,,"Day 1 Pinhole Visual Acuity (OS), Left eye",Pinhole Visual Acuity (OS),,,,,,,,,Question,Text,
+8b628898-423c-4795-82a3-4d7ab523ae44,,"Day 1 Complications (OS), Left eye",Complications (OS),,,,,,,,,Question,Coded,"Corneal Edema;
+Hyphema;
+Retained Cortex;
+Wound Complication;
+Endophthalmitis;
+Elevated IOP;
+Other, List in Notes"
+11952ce2-f7ca-48ce-8ae2-5c7dd6c50107,,"Day 1 Additional Surgery Performed (OS), Left eye",Additional Surgery Performed (OS),,,,,,,,,Question,Text,
+1d4bb747-20cc-4fe3-a52f-e009dcfcff75,,"Notes (OS), Left eye",Notes (OS),,,,,,,,,Misc,Text,
+9b249a9f-8586-4299-b0f6-0e48ceb14903,,"Day 1 Left Eye Information (OS), Left eye",Left Eye Information (OS),,,,,,,,,Misc,N/A,
+7829e714-d2b4-4639-b7f2-31340cdbf260,,Day 1 Post-Operative Examination,,,,,,,,,,ConvSet,N/A,

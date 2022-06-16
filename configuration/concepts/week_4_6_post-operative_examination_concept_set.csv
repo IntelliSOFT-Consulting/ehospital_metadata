@@ -1,0 +1,35 @@
+Uuid,Answers,Members,Fully specified name:en,Short name:en,Data class,Data type,_version:1,_order:106
+ab2a368d-81e6-4596-9fd7-67a10cfd043e,Sphere;Cylinder;Axis,,"Week 4-6 Refraction (OD), Right eye",Week 4-6 Refraction (OD),Question,Coded,,
+726cdaa5-31df-4131-b968-df48fcf2d30c,"Corneal Edema;
+Hyphema;
+Retained Cortex;
+Wound Complication;
+Endophthalmitis;
+Elevated IOP;
+Other, List in Notes",,"Week 4-6 Complications (OD), Right eye",Week 4-6 Complications (OD),Question,Coded,,
+cf728cbc-ee55-4cc8-b115-ee52560c154c,,"Week 4-6 Exam Date (OD), Right eye;
+Week 4-6 Visual Acuity (OD), Right eye;
+Week 4-6 Pinhole Visual Acuity (OD), Right eye;
+Week 4-6 Complications (OD), Right eye;
+Week 4-6 Additional Surgery Performed (OD), Right eye;
+Week 4-6 Refraction (OD), Right eye;
+Week 4-6 Visual Acuity With Correction (OD), Right eye;
+Notes (OD), Right eye;","Week 4-6 Right eye information, Right eye",Right Eye Information (OD),Misc,N/A,,
+2b8d3de4-3a23-47a7-b40d-fd7ce6bc386b,Sphere;Cylinder;Axis,,"Week 4-6 Refraction (OS), Left eye",Week 4-6 Refraction (OS),Question,Coded,,
+3d8d96ba-c21c-4695-929c-c96228db84ec,"Corneal Edema;
+Hyphema;
+Retained Cortex;
+Wound Complication;
+Endophthalmitis;
+Elevated IOP;
+Other, List in Notes",,"Week 4-6 Complications (OS), Left eye",Week 4-6 Complications (OS),Question,Coded,,
+13d36bbf-06e5-4519-a178-e86f63a6eb7a,,"Week 4-6 Exam Date (OS), Left eye;
+Week 4-6 Visual Acuity (OS), Left eye;
+Week 4-6 Pinhole Visual Acuity (OS), Left eye;
+Week 4-6 Complications (OS), Left eye;
+Week 4-6 Additional Surgery Performed (OS), Left eye;
+Week 4-6 Refraction (OS), Left eye;
+Week 4-6 Visual Acuity With Correction (OS), Left eye;
+Notes (OS), Left eye;","Week 4-6 Left eye information, Left eye",Left Eye Information (OS),Misc,N/A,,
+87165a90-0937-43cc-9aa5-49ef326c64d9,,"Week 4-6 Right eye information, Right eye; 
+Week 4-6 Left eye information, Left eye;",Week 4-6 Post-Operative Examination,,ConvSet,N/A,,

@@ -1,0 +1,80 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,Normal low,Normal high,Allow decimals,Display precision,_version:1,_order:101,Data class,Data type,Answers
+34e831a8-2d04-4fc8-8502-b7e8bb7a1271,,"Blood Pressure Pre operative, First Reading","Blood pressure, First Reading",,,,,yes,2,,,Question,Numeric,
+4bc2e244-b147-4749-9220-5b5261770cb4,,"Blood pressure reading, first date",First Reading Date,,,,,,,,,Question,Date,
+d66677f7-6edb-493a-9258-74cc302bf12e,,"Blood Pressure Pre operative, Second Reading","Blood pressure, Second Reading",,,,,,,,,Question,Numeric,
+28e4dac2-fe2f-40d4-8189-64116dea11d3,,"Blood pressure reading, second date",Second Reading Date,,,,,,,,,Question,Date,
+7a3685af-d314-4dad-94cd-f0234cc497fd,,Pre-Op Visual Acuity (OD),,,,,,,,,,Question,Text,
+05fe7f6f-b337-4518-8566-53b8f9f55895,,Pre-Op Pinhole Visual Acuity (OD),,,,,,,,,,Question,Text,
+5e95772f-a548-43a0-86ec-c49738dd5d37,,Right Eye to be Operated (OD),,,,,,,,,,Question,Boolean,
+268824fd-c3b5-4ddc-b987-9a3ad92acc45,,Afferent Pupilary Defect (OD),,,,,,,,,,Question,Boolean,
+e0eb4220-d17a-46bb-b79d-36869a361e11,,Intraocular Pressure (OD),,,,,,,,,,Question,Text,
+73edd021-ce98-47b9-932a-64bcf07071d9,,K1,,,,,,,,,,Question,Text,
+ed2ba58e-6d44-4690-b4d5-00abde11e10e,,K2,,,,,,,,,,Question,Text,
+5892cce6-d6d5-45e5-94d7-c92ff224e0ab,,AXL,,,,,,,,,,Question,Text,
+97a8d9fe-dfbd-4010-84b2-c11ea9992df9,,Holladay 1,,,,,,,,,,Misc,N/A,
+385c0708-d5de-4e57-894b-14047f00e40d,,Holladay 2,,,,,,,,,,Misc,N/A,
+20cabe28-595e-4a27-8881-f88ccd48d260,,SRK/T,,,,,,,,,,Misc,N/A,
+43628c28-b8d6-47c7-8262-f9e546bab17c,,"Other, List in Notes",Notes,,,,,,,,,Misc,N/A,
+d38fbb5c-76e2-4050-b974-535d9e17983f,,IOL Formula Used (OD),,,,,,,,,,Question,Coded,"Holladay 1;
+Holladay 2;
+SRK/T;
+Other, List in Notes;"
+db9ceb98-a32a-4f67-9332-c0c8d2f6bafe,,Other IOL Formula Used (OD),,,,,,,,,,Question,Text,
+0888c3bf-b327-48aa-93c0-6ce6be790b0c,,Prescribed IOL Power (OD),,,,,,,,,,Question,Text,
+6a40fe95-467c-46d8-97c6-9514c0554569,,Trauma,,,,,,,,,,Misc,N/A,
+38156ab4-181f-4fa0-a75e-19ddd31dd25e,,Small Pupil,,,,,,,,,,Misc,N/A,
+39471e8b-d69f-4edf-be5a-82d679b440f0,,Dense Cataract,,,,,,,,,,Misc,N/A,
+d8e7ab0c-052c-462f-b3a6-c2fdf7081d83,,Psuedoexfoliation,,,,,,,,,,Misc,N/A,
+69ad731f-fd6b-4b29-b636-9118adfc4385,,Corneal Scar,,,,,,,,,,Misc,N/A,
+66804595-aaa0-487d-ad11-4df2a30fb9a4,,Retinal Disease,,,,,,,,,,Misc,N/A,
+061f64d9-1a17-431d-9af6-eeb03cba43a9,,Glaucoma,,,,,,,,,,Misc,N/A,
+2c3ece05-bf64-4df7-a15c-1d384ffce261,,Poor Zonular Support,,,,,,,,,,Misc,N/A,
+9ddb3521-8d80-4266-a5ca-1d03d5944a42,,Amblyopia,,,,,,,,,,Misc,N/A,
+f57cfd61-c1e3-4157-8729-fcd635637781,,White/Mature Cataract,,,,,,,,,,Misc,N/A,
+04d44010-362f-4a67-8bf8-bb4d118c2fb8,,Immature Cataract,,,,,,,,,,Misc,N/A,
+2d6f7296-bc90-4ffe-b839-23d7551fadf7,,Trachoma,,,,,,,,,,Misc,N/A,
+43628c28-b8d6-47c7-8262-f9e546bab17c,,"Other, List in Notes",,,,,,,,,,Misc,N/A,
+d74281ce-881e-490e-8ddb-5c1ce97ef221,,"Other Ocular Pathology Likely
+to Impact Outcome (OD)",,,,,,,,,,Question,Coded,"Trauma;
+Small Pupil;
+Dense Cataract;
+Psuedoexfoliation;
+Corneal Scar;
+Retinal Disease;
+Glaucoma;
+Poor Zonular Support;
+Amblyopia;
+White/Mature Cataract;
+Immature Cataract;
+Trachoma;
+Other, List in Notes;"
+3bf526ff-b115-4dda-a74e-e3734c8e8835,,Notes (OD),,,,,,,,,,Misc,Text,
+6f21b851-ca51-4b92-9f94-448d97c58361,,Right Eye Information (OD),,,,,,,,,,Misc,N/A,
+5a2373a1-c364-48fb-ade2-3ef1d43c2fc3,,Pre-Op Visual Acuity (OS),,,,,,,,,,Question,Text,
+9dfacbe6-73e1-4a0e-b32c-ac5daa080bfd,,Pre-Op Pinhole Visual Acuity (OS),,,,,,,,,,Question,Text,
+129c2d08-fd99-4744-9c61-359cac4f00bd,,Right Eye to be Operated (OS),,,,,,,,,,Question,Boolean,
+7a3138d8-47c1-4d2e-a1a2-209df9e551ed,,Afferent Pupilary Defect (OS),,,,,,,,,,Question,Boolean,
+8d28e015-63fa-4a9e-82b0-0b1d4de6cd76,,Intraocular Pressure (OS),,,,,,,,,,Question,Text,
+4937d1d2-73e2-46cc-ae64-a9639e8a6b31,,"K1,OS",K1,,,,,,,,,Question,Text,
+fbcbee78-3104-4056-9bd1-38546a1770d5,,"K2,OS",k2,,,,,,,,,Question,Text,
+a7ca6673-5d20-41a0-9854-9b55546c30ad,,"AXL,OS",AXL,,,,,,,,,Question,Text,
+c5483564-976c-4993-a486-bd4b64c24743,,IOL Formula Used (OS),,,,,,,,,,Question,Coded,"Holladay 1;
+Holladay 2;
+SRK/T;
+Other, List in Notes;"
+445ee691-08d2-4a15-ad25-e7d1ddb30bae,,Prescribed IOL Power (OS),,,,,,,,,,Question,Text,
+7d163c9c-a4e5-41de-ac6e-1542b0152bc9,,Other Ocular Pathology Likely to Impact Outcome (OS),,,,,,,,,,Question,Coded,"Trauma;
+Small Pupil;
+Dense Cataract;
+Psuedoexfoliation;
+Corneal Scar;
+Retinal Disease;
+Glaucoma;
+Poor Zonular Support;
+Amblyopia;
+White/Mature Cataract;
+Immature Cataract;
+Trachoma;
+Other, List in Notes;"
+7eba219-d8e3-4b67-bbfd-472bd6d7c5447,,Notes (OS),,,,,,,,,,Misc,Text,
+9cd94647-2aee-4208-b2bb-4aae3ec899da,,Left Eye Information (OS),,,,,,,,,,Misc,N/A,
